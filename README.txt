@@ -1,0 +1,1 @@
+to run game just clone run folder and open exe file
